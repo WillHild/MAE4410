@@ -1,0 +1,22 @@
+...Comp Geom...
+4 Num Comps
+6 Total Num Meshes
+4208 Total Num Tris
+
+Theo_Area   Wet_Area   Theo_Vol    Wet_Vol  Name
+   36.129     33.404     11.065     10.675  FuselageGeom   
+   29.770     26.380      3.113      2.878  Main_Wing       
+   29.770     26.573      3.113      2.899  Main_Wing       
+    7.953      7.706      0.381      0.381  Hor_stabiliser       
+    7.953      7.706      0.381      0.381  Hor_stabiliser         
+    8.631      5.925      0.542      0.388  Vert_stabiliser         
+-------------------------------------------------
+  120.207    107.694     18.595     17.604  Totals         
+
+Tag_Theo_Area   Tag_Wet_Area    Tag_Name
+       36.129         33.404    FuselageGeom_S_Surf0
+       29.770         26.380    Main_Wing_S_Surf0
+       29.770         26.573    Main_Wing_S_Surf1
+        7.953          7.706    Hor_stabiliser_S_Surf0
+        7.953          7.706    Hor_stabiliser_S_Surf1
+        8.631          5.925    Vert_stabiliser_S_Surf0
