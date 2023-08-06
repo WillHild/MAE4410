@@ -1,4 +1,5 @@
 clear all; close all; clc
+% Author: Grant Lu
 format("default")
 W_TO = 63.1 * 1000; % kg (guess)
 passenger = 110 + 8; % number of passenger
@@ -13,6 +14,7 @@ bag_weight = 20; % International Economy Baggage weight
 
 
 %% Calculations
+% If Unsure about the Script, Ask/Message Grant
 
 W_payload = passenger * (pass_weight + bag_weight)* 1.1;
 diff = 1;
